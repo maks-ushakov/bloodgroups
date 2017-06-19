@@ -1,3 +1,4 @@
-*.swp	"For Vim
-*~	"For Gedit
+*.swp
+*~$
 *node_modules/*
+*js/*
